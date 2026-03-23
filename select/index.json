@@ -1,88 +1,88 @@
 {
   "version": 1,
-  "base_track": "天ノ弱",
+  "base_track": "天ノ弱 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩)",
   "base_artist": "Leo/need",
-  "createdAt": "2026-02-27T12:01:45.478322Z",
+  "createdAt": "2026-03-23T14:20:38.978207Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "天ノ弱-かごめP Remix-",
-      "artist": "164",
+      "title": "天ノ弱",
+      "artist": "WagakkiBand",
       "has_synced": true,
-      "path": "select/01_天ノ弱-かごめP_Remix-_164.lrc"
+      "path": "select/01_天ノ弱_WagakkiBand.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "天ノ弱",
-      "artist": "WagakkiBand",
+      "title": "天ノ弱 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩)",
+      "artist": "Leo/need",
       "has_synced": true,
-      "path": "select/02_天ノ弱_WagakkiBand.lrc"
+      "path": "select/02_天ノ弱_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩)_Leo_need.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "天ノ弱 (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩)",
-      "artist": "Leo/need",
+      "title": "天ノ弱",
+      "artist": "Leo／need",
       "has_synced": true,
-      "path": "select/03_天ノ弱_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩)_Leo_need.lrc"
+      "path": "select/03_天ノ弱_Leo_need.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "Leo／need",
+      "artist": "和楽器バンド",
       "has_synced": true,
-      "path": "select/04_天ノ弱_Leo_need.lrc"
+      "path": "select/04_天ノ弱_和楽器バンド.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "和楽器バンド",
+      "artist": "164 feat. GUMI",
       "has_synced": true,
-      "path": "select/05_天ノ弱_和楽器バンド.lrc"
+      "path": "select/05_天ノ弱_164_feat._GUMI.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "164 feat. GUMI",
+      "artist": "GUMI",
       "has_synced": true,
-      "path": "select/06_天ノ弱_164_feat._GUMI.lrc"
+      "path": "select/06_天ノ弱_GUMI.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "GUMI",
+      "artist": "和楽器バンド (Wagakki Band)",
       "has_synced": true,
-      "path": "select/07_天ノ弱_GUMI.lrc"
+      "path": "select/07_天ノ弱_和楽器バンド_(Wagakki_Band).lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "和楽器バンド (Wagakki Band)",
-      "has_synced": true,
-      "path": "select/08_天ノ弱_和楽器バンド_(Wagakki_Band).lrc"
+      "artist": "164",
+      "has_synced": false,
+      "path": "select/08_天ノ弱_164.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "天ノ弱",
+      "title": "天ノ弱 feat.GUMI",
       "artist": "164",
       "has_synced": false,
-      "path": "select/09_天ノ弱_164.txt"
+      "path": "select/09_天ノ弱_feat.GUMI_164.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "天ノ弱 feat.GUMI",
+      "title": "天ノ弱",
       "artist": "164",
-      "has_synced": false,
-      "path": "select/10_天ノ弱_feat.GUMI_164.txt"
+      "has_synced": true,
+      "path": "select/10_天ノ弱_164.lrc"
     },
     {
       "id": "lrclib_11",
@@ -96,33 +96,33 @@
       "id": "lrclib_12",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "164",
+      "artist": "Wagakki Band",
       "has_synced": true,
-      "path": "select/12_天ノ弱_164.lrc"
+      "path": "select/12_天ノ弱_Wagakki_Band.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "Wagakki Band",
-      "has_synced": true,
-      "path": "select/13_天ノ弱_Wagakki_Band.lrc"
+      "artist": "Ryo-kun",
+      "has_synced": false,
+      "path": "select/13_天ノ弱_Ryo-kun.txt"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
       "title": "天ノ弱",
-      "artist": "Ryo-kun",
-      "has_synced": false,
-      "path": "select/14_天ノ弱_Ryo-kun.txt"
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩",
+      "has_synced": true,
+      "path": "select/14_天ノ弱_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "天ノ弱",
-      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩",
+      "title": "天ノ弱-かごめP Remix-",
+      "artist": "164",
       "has_synced": true,
-      "path": "select/15_天ノ弱_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩.lrc"
+      "path": "select/15_天ノ弱-かごめP_Remix-_164.lrc"
     },
     {
       "id": "lrclib_16",
